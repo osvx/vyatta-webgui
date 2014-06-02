@@ -1,3 +1,9 @@
+vyatta-webgui (0.2.13-102+osvx1+projectx1) unstable; urgency=medium
+
+  * Fix for Ubuntu 14.04 LTS
+
+ -- Valentin Yakovenkov <yakovenkov@gmail.com>  Mon, 02 Jun 2014 12:46:30 +0400
+
 vyatta-webgui (0.2.13-101+vyos1+helium1) unstable; urgency=low
 
   * New branch
